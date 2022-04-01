@@ -1,0 +1,122 @@
+@keyframes banner{
+    25%{
+        background-image: url('../img/banner/açougue/bn_açougue-1.png');
+    }
+    50%{
+        background-image: url('../img/banner/mercearia/bn_diversos_3.png');
+    }
+    75%{
+        background-image: url('../img/banner/hortifruti/bn_hortifruti_2.png');
+    }
+    100%{
+        background-image: url('../img/banner/principal/bn_cp_renascer.png');
+    }
+
+}
+
+@keyframes hortifruti{
+    25%{
+        background-image: url('../img/banner/hortifruti/bn_frutas.jpg');
+    }
+    50%{
+        background-image: url('../img/banner/hortifruti/bn_frutas2.jpg');
+    }
+    75%{
+        background-image: url('../img/banner/hortifruti/bn_verduras.jpg');
+    }
+    100%{
+        background-image: url('../img/banner/hortifruti/bn_hortifruti.png');
+    }
+}
+
+@keyframes mercearia{
+    25%{
+        background-image: url('../img/banner/mercearia/bn_diversos_3.png');
+    }
+    50%{
+        background-image: url('../img/banner/mercearia/bn_diversos_2.png');
+    }
+    75%{
+        background-image: url('../img/banner/mercearia/bn_diversos_4.png');
+    }
+    100%{
+        background-image: url('../img/banner/mercearia/bn_diversos.png');
+    }
+}
+
+@keyframes bebidas{
+    25%{
+        background-image: url('../img/banner/bebidas/bn_bebidas_2.jpg');
+    }
+    50%{
+        background-image: url('../img/banner/bebidas/bn_bebidas_4.jpg');
+    }
+    75%{
+        background-image: url('../img/banner/bebidas/bn_bebidas_3.jpg');
+    }
+    100%{
+        background-image: url('../img/banner/bebidas/bn_bebidas.jpg');
+    }
+}
+
+@keyframes açougue{
+    25%{
+        background-image: url('../img/banner/açougue/bn_açougue-5.jpg');
+    }
+    50%{
+        background-image: url('../img/banner/açougue/bn_açougue.png');
+    }
+    75%{
+        background-image: url('../img/banner/açougue/bn_açougue-3.jpg');
+    }
+    100%{
+        background-image: url('../img/banner/açougue/bn_açougue-4.jpg');
+    }
+}
+
+@keyframes açougue_mob{
+    25%{
+        background-image: url('../img/banner/açougue/bn_açougue_4.png');
+    }
+    50%{
+        background-image: url('../img/banner/açougue/bn_açougue_7.png');
+    }
+    75%{
+        background-image: url('../img/banner/açougue/bn_açougue_6.png');
+    }
+    100%{
+        background-image: url('../img/banner/açougue/bn_açougue_5.png');
+    }
+}
+
+@keyframes panificadora{
+    25%{
+        background-image: url('../img/banner/padaria/bn_pães.png');
+    }
+    50%{
+        background-image: url('../img/banner/padaria/bn_bolos.png');
+    }
+    75%{
+        background-image: url('../img/banner/padaria/bn_padaria.jpg');
+    }
+    100%{
+        background-image: url('../img/banner/padaria/bn_panificadora.png');
+    }
+
+}
+
+@keyframes banner_mob{
+    25%{
+        background-image: url('../img/banner/açougue/bn_açougue.jpg');
+    }
+    50%{
+        background-image: url('../img/banner/mercearia/bn_mercearia.png');
+    }
+    75%{
+        background-image: url('../img/banner/bebidas/bn_sucos.png');
+    }
+    100%{
+        background-image: url('../img/banner/principal/bn_economico_mob.png');
+    }
+
+}
