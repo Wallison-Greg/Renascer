@@ -143,11 +143,14 @@ main{
     .area_products .product{
         max-width: 180px;
         min-width: 180px;
-        margin: 15px 30px;
+        margin: 15px 50px;
     }
     .product .img_prod img{
         width: 150px;
         height: 115px;
+    }
+    .product .desc_prod{
+        max-width: 150px;
     }
     .container .att_cont{
         min-width: 400px;
@@ -173,7 +176,7 @@ main{
     .area_products .product{
         max-width: 200px;
         min-width: 150px;
-        margin: 10px 10px;
+        margin: 10px;
     }
     .product .img_prod img{
         width: 125px;
